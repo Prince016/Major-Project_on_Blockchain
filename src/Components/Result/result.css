@@ -1,0 +1,19 @@
+.heading{
+    text-align: center;
+}
+
+.sem_year{
+    float: left;
+    color: red;
+}
+
+.about_user{
+    margin: 30px;
+}
+
+.details_marksheet{
+    padding: 0 3rem;
+}
+.table_content{
+    background-color: white;
+}
